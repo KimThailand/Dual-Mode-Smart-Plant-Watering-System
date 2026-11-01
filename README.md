@@ -39,10 +39,6 @@ This project uses a soil moisture sensor to monitor soil conditions and control 
 **Manual Mode**
 - Allows users to turn the water pump ON or OFF using a push button.
 
-## Project Images
-
-Add project simulation or hardware images here.
-
 ## Learning Outcomes
 
 - Arduino programming and digital/analog I/O.
